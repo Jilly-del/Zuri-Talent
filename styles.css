@@ -238,6 +238,11 @@ footer > div > img{
     
 }
 @media screen and (max-width: 600px)  {
+   *{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
     .top1,.top2,.top3{
         display: none;
 
